@@ -31,3 +31,12 @@ Simply open the HTML or IPYNB versions to read the analysis.
 
 ## 🗂 Repository Structure
 
+├── Phase_I.ipynb
+├── Phase_I.html
+├── Phase_II.ipynb
+└── Phase_II.html
+
+
+## ✔️ Notes
+
+- The notebooks are self-contained and guide the reader through the entire analytical process.  
